@@ -1,0 +1,4 @@
+const total = 1000;
+const orangeAndApples = 700;
+
+console.log(total-orangeAndApples);
